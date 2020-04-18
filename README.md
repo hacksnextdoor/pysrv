@@ -1,8 +1,9 @@
-# json-head
+# pysrv
+Python service used to ship random endpoints and side projects to allevate your devop concerns.
 
-JSON (and JSON-P) API for running a HEAD request against a URL.
+https://pysrv.now.sh/
 
-https://json-head.now.sh/
+## Todo:
+- [ ] Move prod url to https://hxk.app/
 
-Source code for the old App Engine utility can be found here:
-https://github.com/simonw/json-head/tree/appengine
+[Click here to view original reference](https://github.com/simonw/json-head)
