@@ -9,7 +9,7 @@ app = Sanic(__name__)
 
 @app.route('/')
 async def test(request):
-    return json({'hello': 'world'})
+    return json({'hello': 'mars'})
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=8006)
