@@ -3,7 +3,7 @@ from sanic import response
 import aiohttp
 import asyncio
 import re
-import json
+from sanic.response import json
 
 app = Sanic(__name__)
 
