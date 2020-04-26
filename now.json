@@ -12,6 +12,10 @@
             "dest": "app.py"
         },
         {
+	   "src": "/analogue",
+           "dest": "app.py"
+	},
+        {
             "src": "/fnh",
             "status": 301,
             "headers": { "Location": "https://docs.google.com/spreadsheets/d/1oD72GWc1WLaUu7dFdFgKjCbl-zaIyxjA4yRj5llbPlM/edit#gid=0" }
