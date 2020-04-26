@@ -11,8 +11,8 @@
             "src": "/",
             "dest": "app.py"
         },
-        {
-	   "src": "/analogue",
+	{
+	   "src": "/analogue/search",
            "dest": "app.py"
 	},
         {
