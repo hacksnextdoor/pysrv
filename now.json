@@ -21,7 +21,7 @@
             "headers": { "Location": "https://docs.google.com/spreadsheets/d/1oD72GWc1WLaUu7dFdFgKjCbl-zaIyxjA4yRj5llbPlM/edit#gid=0" }
         },
 	{
-            "src": "wc",
+            "src": "/wc",
             "status": 301,
             "headers": { "Location": "https://paper.dropbox.com/doc/Weeklys-Checkin-fCW3Wgwf0WdxafZXSpeDy" }
 	}
