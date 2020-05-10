@@ -10,11 +10,11 @@
         {
             "src": "/",
             "dest": "app.py"
-	},
-	{
-	    "src": "/analogue/search",
-	    "dest": "app.py"
-	},
+	    },
+	    {
+	        "src": "/analogue/search",
+	        "dest": "app.py"
+	    },
         {
             "src": "/fnh",
             "status": 301,
