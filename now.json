@@ -14,6 +14,10 @@
 	    {
 	        "src": "/analogue/search",
 	        "dest": "app.py"
+        },
+        {
+	        "src": "/analogue/users",
+	        "dest": "app.py"
 	    },
         {
             "src": "/fnh",
